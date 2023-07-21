@@ -1,0 +1,192 @@
+@font-face {
+  font-family: Orchidea;
+  src: url('../../../../fonts/OrchideaPro-Regular.ttf');
+}
+
+.main {
+  margin: 0;
+  padding: 0;
+  height: 100vw;
+  width: 1920px;
+  background-color: #ffffff;
+}
+.header-title {
+  padding-top: 201px;
+  width: 1253px;
+  height: 60px;
+  font-size: 48px;
+  padding-bottom: 123px;
+  font-family: Orchidea;
+}
+.zone-div {
+  width: 1588px;
+}
+.firstdiv {
+  width: 1588px;
+  height: 991px;
+}
+.div32 {
+  width: 1588px;
+  height: 480px;
+  display: flex;
+  justify-content: space-between;
+  font-family: Orchidea;
+  margin-bottom: 100px;
+}
+.pictire32 {
+  width: 860px;
+  height: 480px;
+}
+.p32 {
+  width: 600px;
+  height: 335px;
+}
+.h2-div32 {
+  height: 160px;
+  width: 600px;
+  font-size: 48px;
+  padding-bottom: 25px;
+  font-family: Orchidea;
+  line-height: 1.5cm;
+  text-align: left;
+}
+.h3-div32 {
+  height: 150px;
+  width: 600px;
+  font-size: 18px;
+  font-family: 'Manrope', sans-serif;
+  line-height: 1.5;
+  text-align: left;
+}
+.div31 {
+  width: 1238px;
+  height: 411px;
+  display: flex;
+  justify-content: space-between;
+  font-family: Orchidea;
+  margin-left: 300px;
+}
+.pictire31 {
+  width: 599px;
+  height: 411px;
+}
+.p31 {
+  width: 600px;
+  height: 335px;
+  margin-right: 124px;
+}
+.h2-div31 {
+  height: 160px;
+  width: 600px;
+  font-size: 48px;
+  padding-bottom: 25px;
+  font-family: Orchidea;
+  line-height: 1.5cm;
+  text-align: left;
+}
+.h3-div31 {
+  height: 150px;
+  width: 600px;
+  font-size: 18px;
+  font-family: 'Manrope', sans-serif;
+  line-height: 1.5;
+  text-align: left;
+}
+
+.content-swiper-div {
+  height: 672px;
+  width: 4280px;
+  margin-left: 264px;
+  margin-top: 160px;
+}
+.swiper-header {
+  height: 60px;
+  width: 1253px;
+  font-size: 48px;
+  margin: 0;
+  padding: 0;
+  padding-bottom: 123px;
+  font-family: Orchidea;
+}
+.after-slider-div {
+  width: 1588px;
+  padding-bottom: 160px;
+  padding-top: 160px;
+}
+.after-slider-header {
+  width: 1253px;
+  height: 60px;
+  font-size: 48px;
+  font-family: Orchidea;
+  padding-top: 160px;
+  margin-bottom: 120px;
+}
+.block33-div {
+  width: 1588px;
+}
+.div33 {
+  display: flex;
+  flex-direction: row;
+  width: 1588px;
+  height: 480px;
+  padding-bottom: 100px;
+}
+.image33 {
+  width: 860px;
+  height: 480px;
+  padding-right: 128px;
+}
+.h233 {
+  width: 600px;
+  height: 160px;
+  font-size: 48px;
+  font-family: Orchidea;
+  line-height: 1.5cm;
+  text-align: left;
+}
+.h333 {
+  width: 600px;
+  height: 150px;
+  font-size: 18px;
+  font-family: 'Manrope', sans-serif;
+  line-height: 1.5;
+  text-align: left;
+}
+.div34 {
+  display: flex;
+  flex-direction: row;
+  width: 1323px;
+  height: 411px;
+  margin-left: 265px;
+  margin-bottom: 100px;
+}
+.heading34 {
+  width: 600px;
+  height: 160px;
+  font-size: 48px;
+  font-family: Orchidea;
+  line-height: 1.5cm;
+  text-align: left;
+}
+.headingtwo-34 {
+  width: 600px;
+  height: 150px;
+  font-size: 18px;
+  font-family: 'Manrope', sans-serif;
+  line-height: 1.5;
+  text-align: left;
+}
+.image34 {
+  width: 500px;
+  height: 411px;
+  margin-left: 124px;
+  padding-top: 30px;
+}
+.head33 {
+  width: 600px;
+  height: 335px;
+}
+.head34 {
+  width: 600px;
+  height: 335px;
+}
